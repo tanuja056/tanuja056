@@ -31,4 +31,4 @@ I also enjoy front‑end development and create anime‑themed landing pages as 
 ---
 
 ## 📫 Connect with me
-- GitHub: https://github.com/tanujakokkiligadda
+- GitHub: https://github.com/tanuja056
